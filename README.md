@@ -3,8 +3,8 @@
 
 
 
-```bash
-django-unique-id-field
+
+' django-unique-id-field '
 
 -* To generate random unique ID -> (Characters|A,a & digits)
 
