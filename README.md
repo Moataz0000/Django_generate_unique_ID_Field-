@@ -11,4 +11,4 @@
 
 
 ```bash
-pip install git+https://github.com/yourusername/django-unique-id-field.git
+pip install git+https://github.com/Moataz0000/Django_generate_unique_ID_Field-.git
