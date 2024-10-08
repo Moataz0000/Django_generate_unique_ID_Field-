@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='django-unique-id-field',
+    name='django-generate-unique-id-field',  
     version='0.1.0',
     description='A Django Custom Model Field To Generate Random Unique ID -> (Characters & digits)',
     author="Moataz",
