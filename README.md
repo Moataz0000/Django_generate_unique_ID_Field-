@@ -6,7 +6,7 @@
 
 - django-unique-id-field 
 
-*- To generate random unique ID -> (Characters|A,a & digits)
+- To generate random unique ID -> (Characters|A,a & digits)
 
 
 
